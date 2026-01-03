@@ -1,0 +1,22 @@
+[Description]
+Skin=TabsOnlyLight
+Author=Chester Berkeley
+Icon=/icon.png
+
+[Border]
+red=239
+green=240
+blue=241
+width=0
+
+[Text]
+red=199
+green=193
+blue=190
+bold=false
+
+[Background]
+back_image=/back.png
+left_corner=/back.png
+right_corner=/back.png
+
